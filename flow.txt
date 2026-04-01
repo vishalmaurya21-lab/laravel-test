@@ -1,0 +1,15 @@
+Browser Request
+      ↓
+Web Server (Apache/Nginx)
+      ↓
+PHP Engine
+      ↓
+Lex → Parse → Bytecode
+      ↓
+Execute (Interpreter / JIT)
+      ↓
+Generate Output
+      ↓
+Web Server
+      ↓
+Browser Response

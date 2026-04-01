@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <child attribute="value">Children</child>   
+    <user>
+        <id>1</id>
+        <name>Ali</name>
+        <email>ali@email.com</email>
+    </user>
+</root>
